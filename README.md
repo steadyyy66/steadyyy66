@@ -4,7 +4,7 @@ Hello! I'm Johnny, a seasoned Senior Software Engineer with extensive experience
 
 
 ## 🚀 Skills
-- **Languages:** Java, C++, Golang, PHP, TypeScript
+- **Programming Languages:** Java, C++, Golang, PHP, TypeScript
 - **Databases & Caching:** MySQL, Redis
 - **Search Engine:** Elasticsearch
 - **Message Queue:** Kafka
@@ -31,9 +31,10 @@ Hello! I'm Johnny, a seasoned Senior Software Engineer with extensive experience
 
 
 ## 🌱 What I'm Currently Learning
-- **Languages:** TypeScript
+- **Programming Languages:** TypeScript
 - **Frameworks & Libraries:** Next.js, Nest.js
 - **Databases & Caching:** PostgreSQL, MongoDB
+- **Languages:** English Speaking & Listening
 
 
 
