@@ -14,7 +14,7 @@ Hello! I'm Johnny, a seasoned Senior Software Engineer with extensive experience
 - **Version Control:** Git, SVN
 
 
-## 🌟 Key Projects
+## 💼 Professional Portfolio
 
 1. **E-commerce System career**
    - Familiar with E-commerce Systems
@@ -32,7 +32,7 @@ Hello! I'm Johnny, a seasoned Senior Software Engineer with extensive experience
 
 ## 🌱 What I'm Currently Learning
 - **Programming Languages:** TypeScript
-- **Frameworks & Libraries:** Next.js, Nest.js
+- **Frameworks & Libraries:** Node.js
 - **Databases & Caching:** PostgreSQL, MongoDB
 - **Languages:** English Speaking & Listening
 
